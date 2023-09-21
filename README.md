@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://myresume-oibsipl1t2.vercel.app/](https://myresume-oibsipl1t2.vercel.app/)
 
-- 💬 Ask me about **Python,HTML,CSS**
+- 💬 Ask me about **Python,HTML,CSS,Javascript**
 
 - 📫 How to reach me **developersouvikmaji@gmail.com**
 
