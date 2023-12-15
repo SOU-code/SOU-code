@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://myresume-oibsipl1t2.vercel.app/](https://myresume-oibsipl1t2.vercel.app/)
+- 👨‍💻 My Portfolio [https://myresume-oibsipl1t2.vercel.app/](https://myresume-oibsipl1t2.vercel.app/)
 
 - 💬 Ask me about **Python,HTML,CSS,Javascript**
 
 - 📫 How to reach me **developersouvikmaji@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16Qd2HHvGFvEAaJ1NqDupmRmGYGYOXKdZ/view?usp=drive_link](https://drive.google.com/file/d/16Qd2HHvGFvEAaJ1NqDupmRmGYGYOXKdZ/view?usp=drive_link)
+- 📄 My Resume [https://drive.google.com/file/d/16Qd2HHvGFvEAaJ1NqDupmRmGYGYOXKdZ/view?usp=drive_link](https://drive.google.com/file/d/16Qd2HHvGFvEAaJ1NqDupmRmGYGYOXKdZ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
